@@ -1,5 +1,11 @@
 # Hello 👋
 
+
+<a href="https://www.credly.com/badges/1a73db63-aae9-4f3f-b33a-a7ed8147691a/public_url">
+    <img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" alt="Credly Badge" width="300" height="300"/>
+</a>
+
+ 
 I am the Data Sensei, a Machine Learning DevOps Engineer, Data Scientist, and Systems Thinker. My expertise lies in constructing predictive analytics systems that empower organizations to extract valuable insights into the pivotal factors contributing to long-term growth.
 
 🏆 An accomplished Data Science leader, I bring over 12 years of progressive experience, combining sharp business acumen with a passion for delivering impactful data-driven insights. I've successfully steered numerous projects, deploying robust machine learning models and advanced data analysis to drive strategic decision-making and resolve complex business challenges.
